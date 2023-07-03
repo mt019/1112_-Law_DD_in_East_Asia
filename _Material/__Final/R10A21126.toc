@@ -1,0 +1,17 @@
+\contentsline {section}{\numberline {1}Introduction}{2}{section.1}%
+\contentsline {subsection}{\numberline {1.1}Motivation}{2}{subsection.1.1}%
+\contentsline {subsection}{\numberline {1.2}Background}{2}{subsection.1.2}%
+\contentsline {subsubsection}{\numberline {1.2.1}The Idea of Civic Constitutionalism }{2}{subsubsection.1.2.1}%
+\contentsline {subsubsection}{\numberline {1.2.2}The Fiscal System of the Modern Welfare State}{3}{subsubsection.1.2.2}%
+\contentsline {section}{\numberline {2}Tax Consciousness and Civic Constitutionalism}{3}{section.2}%
+\contentsline {subsection}{\numberline {2.1}Tax Compliance}{4}{subsection.2.1}%
+\contentsline {subsection}{\numberline {2.2}Fundamention of Tax Compliance}{4}{subsection.2.2}%
+\contentsline {section}{\numberline {3}Practice of Civic Constitutionalism in Taiwan}{5}{section.3}%
+\contentsline {subsection}{\numberline {3.1}Constitutional Review}{5}{subsection.3.1}%
+\contentsline {subsection}{\numberline {3.2}Contining Actions of Civic Organizations}{6}{subsection.3.2}%
+\contentsline {subsubsection}{\numberline {3.2.1}The Conflict between High Tax Burden and Freedom of Belief}{6}{subsubsection.3.2.1}%
+\contentsline {subsubsection}{\numberline {3.2.2}Government's Attitude of Inclusiveness towards Civil Society}{7}{subsubsection.3.2.2}%
+\contentsline {section}{\numberline {4}Civic-centered Reflection upon Fiscal Law}{8}{section.4}%
+\contentsline {subsection}{\numberline {4.1}Implications of Tax Disputes}{8}{subsection.4.1}%
+\contentsline {subsection}{\numberline {4.2}Solution for Tax Consciousness}{8}{subsection.4.2}%
+\contentsline {section}{\numberline {5}Conclusion}{9}{section.5}%

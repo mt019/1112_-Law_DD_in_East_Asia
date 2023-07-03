@@ -1,0 +1,519 @@
+% $ biblatex auxiliary file $
+% $ biblatex bbl format version 3.2 $
+% Do not modify the above lines!
+%
+% This is an auxiliary file used by the 'biblatex' package.
+% This file may safely be deleted. It will be recreated by
+% biber as required.
+%
+\begingroup
+\makeatletter
+\@ifundefined{ver@biblatex.sty}
+  {\@latex@error
+     {Missing 'biblatex' package}
+     {The bibliography requires the 'biblatex' package.}
+      \aftergroup\endinput}
+  {}
+\endgroup
+
+
+\refsection{0}
+  \datalist[entry]{none/global//global/global}
+    \entry{2021}{article}{}
+      \field{sortinit}{1}
+      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
+      \field{labeltitlesource}{shorttitle}
+      \field{chapter}{China}
+      \field{journaltitle}{BBC News}
+      \field{langid}{british}
+      \field{month}{12}
+      \field{shorttitle}{Viya}
+      \field{title}{Viya: Top Chinese Live-Streamer Fined \$210m for Tax Evasion}
+      \field{urlday}{18}
+      \field{urlmonth}{6}
+      \field{urlyear}{2023}
+      \field{year}{2021}
+      \field{urldateera}{ce}
+      \verb{urlraw}
+      \verb https://www.bbc.com/news/world-asia-china-59732499
+      \endverb
+      \verb{url}
+      \verb https://www.bbc.com/news/world-asia-china-59732499
+      \endverb
+    \endentry
+    \entry{finn2017other}{article}{}
+      \name{author}{1}{}{%
+        {{hash=a0a9b531b8b73c832e8980f2c4b245fe}{%
+           family={Finn},
+           familyi={F\bibinitperiod},
+           given={John\bibnamedelima E},
+           giveni={J\bibinitperiod\bibinitdelim E\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {HeinOnline}%
+      }
+      \strng{namehash}{a0a9b531b8b73c832e8980f2c4b245fe}
+      \strng{fullhash}{a0a9b531b8b73c832e8980f2c4b245fe}
+      \strng{bibnamehash}{a0a9b531b8b73c832e8980f2c4b245fe}
+      \strng{authorbibnamehash}{a0a9b531b8b73c832e8980f2c4b245fe}
+      \strng{authornamehash}{a0a9b531b8b73c832e8980f2c4b245fe}
+      \strng{authorfullhash}{a0a9b531b8b73c832e8980f2c4b245fe}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \true{singletitle}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Concordia L. Rev.}
+      \field{title}{The Other Preamble: Civic Constitutionalism and the Preamble to the Bill of Rights}
+      \field{volume}{2}
+      \field{year}{2017}
+      \verb{urlraw}
+      \verb https://digitalcommons.csp.edu/cgi/viewcontent.cgi?article=1007&context=clr
+      \endverb
+      \verb{url}
+      \verb https://digitalcommons.csp.edu/cgi/viewcontent.cgi?article=1007&context=clr
+      \endverb
+    \endentry
+    \entry{williams2004civic}{article}{}
+      \name{author}{1}{}{%
+        {{hash=79a362f02bf077978b67719651473d19}{%
+           family={Williams},
+           familyi={W\bibinitperiod},
+           given={David\bibnamedelima C},
+           giveni={D\bibinitperiod\bibinitdelim C\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {HeinOnline}%
+      }
+      \strng{namehash}{79a362f02bf077978b67719651473d19}
+      \strng{fullhash}{79a362f02bf077978b67719651473d19}
+      \strng{bibnamehash}{79a362f02bf077978b67719651473d19}
+      \strng{authorbibnamehash}{79a362f02bf077978b67719651473d19}
+      \strng{authornamehash}{79a362f02bf077978b67719651473d19}
+      \strng{authorfullhash}{79a362f02bf077978b67719651473d19}
+      \field{sortinit}{3}
+      \field{sortinithash}{ad6fe7482ffbd7b9f99c9e8b5dccd3d7}
+      \true{singletitle}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Ind. LJ}
+      \field{title}{Civic Constitutionalism, the Second Amendment, and the Right of Revolution}
+      \field{volume}{79}
+      \field{year}{2004}
+      \field{pages}{379\bibrangedash 392}
+      \range{pages}{14}
+      \verb{urlraw}
+      \verb https://heinonline.org/HOL/Page?handle=hein.journals/indana79&div=19&g_sent=1&casa_token=&collection=journals
+      \endverb
+      \verb{url}
+      \verb https://heinonline.org/HOL/Page?handle=hein.journals/indana79&div=19&g_sent=1&casa_token=&collection=journals
+      \endverb
+    \endentry
+    \entry{Yeh2015}{article}{}
+      \name{author}{1}{}{%
+        {{hash=1c94b22e67fa1f5202caee1858d923d9}{%
+           family={Yeh},
+           familyi={Y\bibinitperiod},
+           given={Jiunn\bibnamedelima Rong},
+           giveni={J\bibinitperiod\bibinitdelim R\bibinitperiod}}}%
+      }
+      \strng{namehash}{1c94b22e67fa1f5202caee1858d923d9}
+      \strng{fullhash}{1c94b22e67fa1f5202caee1858d923d9}
+      \strng{bibnamehash}{1c94b22e67fa1f5202caee1858d923d9}
+      \strng{authorbibnamehash}{1c94b22e67fa1f5202caee1858d923d9}
+      \strng{authornamehash}{1c94b22e67fa1f5202caee1858d923d9}
+      \strng{authorfullhash}{1c94b22e67fa1f5202caee1858d923d9}
+      \field{sortinit}{4}
+      \field{sortinithash}{9381316451d1b9788675a07e972a12a7}
+      \true{singletitle}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{shorttitle}
+      \field{journaltitle}{Hong Kong Law Journal}
+      \field{langid}{english}
+      \field{number}{1}
+      \field{shorttitle}{Marching towards Civic Constitutionalism with Sunflowers Focus}
+      \field{title}{Marching towards Civic Constitutionalism with Sunflowers Focus: Taiwan's Sunflower Movement}
+      \field{urlday}{17}
+      \field{urlmonth}{6}
+      \field{urlyear}{2023}
+      \field{volume}{45}
+      \field{year}{2015}
+      \field{urldateera}{ce}
+      \field{pages}{315\bibrangedash 330}
+      \range{pages}{16}
+      \verb{urlraw}
+      \verb https://heinonline.org/HOL/P?h=hein.journals/honkon45&i=317
+      \endverb
+      \verb{url}
+      \verb https://heinonline.org/HOL/P?h=hein.journals/honkon45&i=317
+      \endverb
+    \endentry
+    \entry{2023a}{article}{}
+      \field{sortinit}{6}
+      \field{sortinithash}{b33bc299efb3c36abec520a4c896a66d}
+      \field{labeltitlesource}{title}
+      \field{annotation}{Page Version ID: 1159298979}
+      \field{journaltitle}{Wikipedia}
+      \field{langid}{english}
+      \field{month}{6}
+      \field{title}{Welfare State}
+      \field{urlday}{19}
+      \field{urlmonth}{6}
+      \field{urlyear}{2023}
+      \field{year}{2023}
+      \field{urldateera}{ce}
+      \verb{urlraw}
+      \verb https://en.wikipedia.org/w/index.php?title=Welfare_state&oldid=1159298979
+      \endverb
+      \verb{url}
+      \verb https://en.wikipedia.org/w/index.php?title=Welfare_state&oldid=1159298979
+      \endverb
+    \endentry
+    \entry{chomsky2013anarchism}{book}{}
+      \name{author}{1}{}{%
+        {{hash=28167c0b3800bc5cfb686676277005b0}{%
+           family={Chomsky},
+           familyi={C\bibinitperiod},
+           given={Noam},
+           giveni={N\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {The New Press}%
+      }
+      \strng{namehash}{28167c0b3800bc5cfb686676277005b0}
+      \strng{fullhash}{28167c0b3800bc5cfb686676277005b0}
+      \strng{bibnamehash}{28167c0b3800bc5cfb686676277005b0}
+      \strng{authorbibnamehash}{28167c0b3800bc5cfb686676277005b0}
+      \strng{authornamehash}{28167c0b3800bc5cfb686676277005b0}
+      \strng{authorfullhash}{28167c0b3800bc5cfb686676277005b0}
+      \field{sortinit}{7}
+      \field{sortinithash}{108d0be1b1bee9773a1173443802c0a3}
+      \true{singletitle}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{On Anarchism}
+      \field{year}{2013}
+      \verb{urlraw}
+      \verb https://theanarchistlibrary.org/library/noam-chomsky-on-anarchism
+      \endverb
+      \verb{url}
+      \verb https://theanarchistlibrary.org/library/noam-chomsky-on-anarchism
+      \endverb
+    \endentry
+    \entry{Genschel2021}{book}{}
+      \name{author}{2}{}{%
+        {{hash=2ff2b20e98b68c775ffc601689a016d4}{%
+           family={Genschel},
+           familyi={G\bibinitperiod},
+           given={Philipp},
+           giveni={P\bibinitperiod}}}%
+        {{hash=05e0001257e1da6f7dd03f1e77355f01}{%
+           family={Seelkopf},
+           familyi={S\bibinitperiod},
+           given={Laura},
+           giveni={L\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Oxford University Press}%
+      }
+      \strng{namehash}{0a54aca7f134f7f1b23c3abafdaa1a54}
+      \strng{fullhash}{0a54aca7f134f7f1b23c3abafdaa1a54}
+      \strng{bibnamehash}{0a54aca7f134f7f1b23c3abafdaa1a54}
+      \strng{authorbibnamehash}{0a54aca7f134f7f1b23c3abafdaa1a54}
+      \strng{authornamehash}{0a54aca7f134f7f1b23c3abafdaa1a54}
+      \strng{authorfullhash}{0a54aca7f134f7f1b23c3abafdaa1a54}
+      \field{sortinit}{8}
+      \field{sortinithash}{a231b008ebf0ecbe0b4d96dcc159445f}
+      \true{singletitle}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{shorttitle}
+      \field{isbn}{978-0-19-265210-2}
+      \field{langid}{english}
+      \field{month}{9}
+      \field{shorttitle}{Global Taxation}
+      \field{title}{Global Taxation: How Modern Taxes Conquered the World}
+      \field{year}{2021}
+    \endentry
+    \entry{Kato2003}{book}{}
+      \name{author}{1}{}{%
+        {{hash=c9dcb933914ccf7575fcc89410ce5d48}{%
+           family={Kato},
+           familyi={K\bibinitperiod},
+           given={Junko},
+           giveni={J\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {Cambridge}%
+      }
+      \list{publisher}{1}{%
+        {Cambridge University Press}%
+      }
+      \strng{namehash}{c9dcb933914ccf7575fcc89410ce5d48}
+      \strng{fullhash}{c9dcb933914ccf7575fcc89410ce5d48}
+      \strng{bibnamehash}{c9dcb933914ccf7575fcc89410ce5d48}
+      \strng{authorbibnamehash}{c9dcb933914ccf7575fcc89410ce5d48}
+      \strng{authornamehash}{c9dcb933914ccf7575fcc89410ce5d48}
+      \strng{authorfullhash}{c9dcb933914ccf7575fcc89410ce5d48}
+      \field{sortinit}{9}
+      \field{sortinithash}{0a5ebc79d83c96b6579069544c73c7d4}
+      \true{singletitle}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{shorttitle}
+      \field{isbn}{978-0-521-82452-1}
+      \field{series}{Cambridge Studies in Comparative Politics}
+      \field{shorttitle}{Regressive Taxation and the Welfare State}
+      \field{title}{Regressive Taxation and the Welfare State: Path Dependence and Policy Diffusion}
+      \field{urlday}{19}
+      \field{urlmonth}{6}
+      \field{urlyear}{2023}
+      \field{year}{2003}
+      \field{urldateera}{ce}
+      \verb{doi}
+      \verb 10.1017/CBO9780511510212
+      \endverb
+      \verb{urlraw}
+      \verb https://www.cambridge.org/core/books/regressive-taxation-and-the-welfare-state/E62443FA27C3FF165C079374AA6DA6A2
+      \endverb
+      \verb{url}
+      \verb https://www.cambridge.org/core/books/regressive-taxation-and-the-welfare-state/E62443FA27C3FF165C079374AA6DA6A2
+      \endverb
+    \endentry
+    \entry{Buehler1940}{article}{}
+      \name{author}{1}{}{%
+        {{hash=4c8d9627309d7af0d6d01b6266299bbe}{%
+           family={Buehler},
+           familyi={B\bibinitperiod},
+           given={Alfred\bibnamedelima G.},
+           giveni={A\bibinitperiod\bibinitdelim G\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {National Tax Association}%
+      }
+      \strng{namehash}{4c8d9627309d7af0d6d01b6266299bbe}
+      \strng{fullhash}{4c8d9627309d7af0d6d01b6266299bbe}
+      \strng{bibnamehash}{4c8d9627309d7af0d6d01b6266299bbe}
+      \strng{authorbibnamehash}{4c8d9627309d7af0d6d01b6266299bbe}
+      \strng{authornamehash}{4c8d9627309d7af0d6d01b6266299bbe}
+      \strng{authorfullhash}{4c8d9627309d7af0d6d01b6266299bbe}
+      \field{sortinit}{1}
+      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
+      \true{singletitle}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{eprinttype}{jstor}
+      \field{issn}{2327-8706}
+      \field{journaltitle}{The Bulletin of the National Tax Association}
+      \field{number}{8}
+      \field{title}{The Tax System and Tax Consciousness}
+      \field{urlday}{19}
+      \field{urlmonth}{6}
+      \field{urlyear}{2023}
+      \field{volume}{25}
+      \field{year}{1940}
+      \field{urldateera}{ce}
+      \field{pages}{237\bibrangedash 246}
+      \range{pages}{10}
+      \verb{eprint}
+      \verb 41788059
+      \endverb
+      \verb{urlraw}
+      \verb https://www.jstor.org/stable/41788059
+      \endverb
+      \verb{url}
+      \verb https://www.jstor.org/stable/41788059
+      \endverb
+    \endentry
+    \entry{DiGioacchino2020}{article}{}
+      \name{author}{2}{}{%
+        {{hash=a0242c05b257462b7bcbc3edc4de388b}{%
+           family={Di\bibnamedelima Gioacchino},
+           familyi={D\bibinitperiod\bibinitdelim G\bibinitperiod},
+           given={Debora},
+           giveni={D\bibinitperiod}}}%
+        {{hash=4838a1d6b9be375214304c3e57cbe02a}{%
+           family={Fichera},
+           familyi={F\bibinitperiod},
+           given={Domenico},
+           giveni={D\bibinitperiod}}}%
+      }
+      \strng{namehash}{5fae5e47dcdcea6ac562940d981ce52e}
+      \strng{fullhash}{5fae5e47dcdcea6ac562940d981ce52e}
+      \strng{bibnamehash}{5fae5e47dcdcea6ac562940d981ce52e}
+      \strng{authorbibnamehash}{5fae5e47dcdcea6ac562940d981ce52e}
+      \strng{authornamehash}{5fae5e47dcdcea6ac562940d981ce52e}
+      \strng{authorfullhash}{5fae5e47dcdcea6ac562940d981ce52e}
+      \field{sortinit}{1}
+      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
+      \true{singletitle}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{shorttitle}
+      \field{issn}{0176-2680}
+      \field{journaltitle}{European Journal of Political Economy}
+      \field{langid}{english}
+      \field{month}{12}
+      \field{shorttitle}{Tax Evasion and Tax Morale}
+      \field{title}{Tax Evasion and Tax Morale: A Social Network Analysis}
+      \field{urlday}{19}
+      \field{urlmonth}{6}
+      \field{urlyear}{2023}
+      \field{volume}{65}
+      \field{year}{2020}
+      \field{urldateera}{ce}
+      \field{pages}{101922}
+      \range{pages}{1}
+      \verb{doi}
+      \verb 10.1016/j.ejpoleco.2020.101922
+      \endverb
+      \verb{urlraw}
+      \verb https://www.sciencedirect.com/science/article/pii/S0176268020300707
+      \endverb
+      \verb{url}
+      \verb https://www.sciencedirect.com/science/article/pii/S0176268020300707
+      \endverb
+    \endentry
+    \entry{2023b}{article}{}
+      \field{sortinit}{1}
+      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
+      \field{labeltitlesource}{title}
+      \field{annotation}{Page Version ID: 1159571933}
+      \field{journaltitle}{Wikipedia}
+      \field{langid}{english}
+      \field{month}{6}
+      \field{title}{No Taxation without Representation}
+      \field{urlday}{19}
+      \field{urlmonth}{6}
+      \field{urlyear}{2023}
+      \field{year}{2023}
+      \field{urldateera}{ce}
+      \verb{urlraw}
+      \verb https://en.wikipedia.org/w/index.php?title=No_taxation_without_representation&oldid=1159571933
+      \endverb
+      \verb{url}
+      \verb https://en.wikipedia.org/w/index.php?title=No_taxation_without_representation&oldid=1159571933
+      \endverb
+    \endentry
+    \entry{zotero-175}{misc}{}
+      \field{sortinit}{1}
+      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
+      \field{labeltitlesource}{title}
+      \field{title}{Constitutional Court Interpretation No. 745 (Feb. 08, 2017) - Constitutional Court R.O.C. (Taiwan)}
+      \field{urlday}{19}
+      \field{urlmonth}{6}
+      \field{urlyear}{2023}
+      \field{urldateera}{ce}
+      \verb{urlraw}
+      \verb https://cons.judicial.gov.tw/en/docdata.aspx?fid=100&id=310926
+      \endverb
+      \verb{url}
+      \verb https://cons.judicial.gov.tw/en/docdata.aspx?fid=100&id=310926
+      \endverb
+    \endentry
+    \entry{Jacobsen2020}{article}{}
+      \name{author}{1}{}{%
+        {{hash=cc607729897f310c8165981d2a93dd51}{%
+           family={Jacobsen},
+           familyi={J\bibinitperiod},
+           given={Kenneth\bibnamedelima A.},
+           giveni={K\bibinitperiod\bibinitdelim A\bibinitperiod}}}%
+      }
+      \strng{namehash}{cc607729897f310c8165981d2a93dd51}
+      \strng{fullhash}{cc607729897f310c8165981d2a93dd51}
+      \strng{bibnamehash}{cc607729897f310c8165981d2a93dd51}
+      \strng{authorbibnamehash}{cc607729897f310c8165981d2a93dd51}
+      \strng{authornamehash}{cc607729897f310c8165981d2a93dd51}
+      \strng{authorfullhash}{cc607729897f310c8165981d2a93dd51}
+      \field{sortinit}{1}
+      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
+      \true{singletitle}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{shorttitle}
+      \field{issn}{2532-2990}
+      \field{journaltitle}{The journal of CESNUR}
+      \field{langid}{english}
+      \field{number}{5}
+      \field{shorttitle}{Abrogating the Rule of Law}
+      \field{title}{Abrogating the Rule of Law: The Tai Ji Men Tax Case in Taiwan}
+      \field{volume}{4}
+      \field{year}{2020}
+      \field{pages}{101}
+      \range{pages}{1}
+    \endentry
+    \entry{Citizensgateway2013}{misc}{}
+      \name{author}{1}{}{%
+        {{hash=26d1632e78ed402827df8e8137a63b53}{%
+           family={{Citizensgateway}},
+           familyi={C\bibinitperiod}}}%
+      }
+      \strng{namehash}{26d1632e78ed402827df8e8137a63b53}
+      \strng{fullhash}{26d1632e78ed402827df8e8137a63b53}
+      \strng{bibnamehash}{26d1632e78ed402827df8e8137a63b53}
+      \strng{authorbibnamehash}{26d1632e78ed402827df8e8137a63b53}
+      \strng{authornamehash}{26d1632e78ed402827df8e8137a63b53}
+      \strng{authorfullhash}{26d1632e78ed402827df8e8137a63b53}
+      \field{sortinit}{1}
+      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
+      \true{singletitle}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{month}{2}
+      \field{title}{Noam Chomsky Explains Taxes in 40 Seconds}
+      \field{urlday}{19}
+      \field{urlmonth}{6}
+      \field{urlyear}{2023}
+      \field{year}{2013}
+      \field{urldateera}{ce}
+      \verb{urlraw}
+      \verb https://www.youtube.com/watch?v=gsUJGwZcVVU
+      \endverb
+      \verb{url}
+      \verb https://www.youtube.com/watch?v=gsUJGwZcVVU
+      \endverb
+    \endentry
+    \entry{2022b}{misc}{}
+      \list{publisher}{1}{%
+        {Judicial Yuan}%
+      }
+      \field{sortinit}{1}
+      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Judicial Yuan R.O.C. (Taiwan)}
+      \field{langid}{english}
+      \field{month}{3}
+      \field{title}{Judicial Statistics Yearbook}
+      \field{urlday}{19}
+      \field{urlmonth}{6}
+      \field{urlyear}{2023}
+      \field{year}{2022}
+      \field{urldateera}{ce}
+      \verb{urlraw}
+      \verb https://www.judicial.gov.tw/en/lp-2206-2.html
+      \endverb
+      \verb{url}
+      \verb https://www.judicial.gov.tw/en/lp-2206-2.html
+      \endverb
+    \endentry
+    \entry{2023}{article}{}
+      \field{sortinit}{1}
+      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
+      \field{labeltitlesource}{title}
+      \field{annotation}{Page Version ID: 1158552724}
+      \field{journaltitle}{Wikipedia}
+      \field{langid}{english}
+      \field{month}{6}
+      \field{title}{{\emph{Moritz v. Commissioner}}}
+      \field{urlday}{18}
+      \field{urlmonth}{6}
+      \field{urlyear}{2023}
+      \field{year}{2023}
+      \field{urldateera}{ce}
+      \verb{urlraw}
+      \verb https://en.wikipedia.org/w/index.php?title=Moritz_v._Commissioner&oldid=1158552724
+      \endverb
+      \verb{url}
+      \verb https://en.wikipedia.org/w/index.php?title=Moritz_v._Commissioner&oldid=1158552724
+      \endverb
+    \endentry
+  \enddatalist
+\endrefsection
+\endinput
+
